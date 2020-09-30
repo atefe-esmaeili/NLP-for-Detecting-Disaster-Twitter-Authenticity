@@ -1,2 +1,2 @@
-# NLP for Detection Disaster Twitter Authenticity
+# NLP for Detecting Disaster Twitter Authenticity
  
